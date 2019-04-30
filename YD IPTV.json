@@ -1786,7 +1786,67 @@
             "itemid": "uid04",
             "name": "游戏王",
             "num": "0298",
-            "urllist": "http://aldirect.hls.huya.com/huyalive"
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689606572-11551772265846669312-2847687520-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "猫和老鼠",
+            "num": "0299",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "网球王子",
+            "num": "0300",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "四驱兄弟",
+            "num": "0301",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-1526356723-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "铠甲勇士",
+            "num": "0302",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "蜡笔小新",
+            "num": "0303",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "哆啦A梦",
+            "num": "0304",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "小绿和小蓝",
+            "num": "0305",
+            "urllist": "http://tx.hls.huya.com/huyalive/1421650401-1421650401-6105941978640285696-4626855864-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "黑子的篮球",
+            "num": "0306",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "名侦探柯南",
+            "num": "0307",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "网络次元美食",
+            "num": "0308",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2742644524-11779568535133487104-3048991682-10057-A-0-1.m3u8"
         }
     ],
     "type": [
