@@ -4,7 +4,7 @@
             "itemid": "uid00",
             "name": "CCTV-01高清",
             "num": "0001",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8#http://223.110.239.218:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8?MAC=54%3AC5%3A7A%3AC0%3AB2%3ACE&OTTUserToken=99999999&accountinfo=nJkQ8hcGYsqLtIs6QXq1DnfJq47QcL6aRYja6oSzImPKONVeo4aCceV5Lp2z5F4u&IASHttpSessionId=SLB814820180913083127206329&UserName=15895270249"
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -16,7 +16,7 @@
             "itemid": "uid00",
             "name": "CCTV-03高清",
             "num": "0003",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/cctv-3/1.m3u8/1.m3u8"
+            "urllist": "http://223.110.239.209:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/1.m3u8"
         },
         {
             "itemid": "uid00",
@@ -28,13 +28,13 @@
             "itemid": "uid00",
             "name": "CCTV-05高清",
             "num": "0005",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/cctv-5/1.m3u8/1.m3u8"
+            "urllist": "http://223.110.239.197:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/1.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-06高清",
             "num": "0006",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/cctv-6/1.m3u8/1.m3u8"
+            "urllist": "http://223.110.239.223:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/1.m3u8"
         },
         {
             "itemid": "uid00",
@@ -46,7 +46,7 @@
             "itemid": "uid00",
             "name": "CCTV-08高清",
             "num": "0008",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/cctv-8/1.m3u8/1.m3u8"
+            "urllist": "http://223.110.239.224:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/1.m3u8"
         },
         {
             "itemid": "uid00",
@@ -98,255 +98,255 @@
         },
         {
             "itemid": "uid00",
-            "name": "湖南卫视高清",
-            "num": "0017",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "北京卫视高清",
-            "num": "0018",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "江苏卫视高清",
-            "num": "0019",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "浙江卫视高清",
-            "num": "0020",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "东方卫视高清",
-            "num": "0021",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "广东卫视高清",
-            "num": "0022",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "深圳卫视高清",
-            "num": "0023",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "天津卫视高清",
-            "num": "0024",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
             "name": "山东卫视高清",
-            "num": "0025",
+            "num": "0017",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000301/index.m3u8"
         },
         {
             "itemid": "uid00",
-            "name": "湖北卫视高清",
-            "num": "0026",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000325/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "安徽卫视高清",
-            "num": "0027",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "贵州卫视高清",
-            "num": "0028",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "河北卫视高清",
-            "num": "0029",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "辽宁卫视高清",
-            "num": "0030",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "东南卫视高清",
-            "num": "0031",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "江西卫视高清",
-            "num": "0032",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "重庆卫视高清",
-            "num": "0033",
-            "urllist": "http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "黑龙江卫视高清",
-            "num": "0034",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "四川卫视",
-            "num": "0035",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000033/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "吉林卫视",
-            "num": "0036",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "河南卫视",
-            "num": "0037",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000037/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "广西卫视",
-            "num": "0038",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "宁夏卫视",
-            "num": "0039",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000043/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "山西卫视",
-            "num": "0040",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "陕西卫视",
-            "num": "0041",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "青海卫视",
-            "num": "0042",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "甘肃卫视",
-            "num": "0043",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "云南卫视",
-            "num": "0044",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000039/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "旅游卫视",
-            "num": "0045",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000030/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "新疆卫视",
-            "num": "0046",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "西藏卫视",
-            "num": "0047",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000045/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "内蒙古卫视",
-            "num": "0048",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8"
-        },
-        {
-            "itemid": "uid00",
             "name": "山东齐鲁高清",
-            "num": "0049",
-            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8#http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8"
+            "num": "0018",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东公共高清",
-            "num": "0050",
+            "num": "0019",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000314/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东综艺高清",
-            "num": "0051",
+            "num": "0020",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000338/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东生活高清",
-            "num": "0052",
+            "num": "0021",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000336/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东影视高清",
-            "num": "0053",
+            "num": "0022",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000337/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东体育高清",
-            "num": "0054",
+            "num": "0023",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东教育高清",
-            "num": "0055",
+            "num": "0024",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000331/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东农科",
-            "num": "0056",
+            "num": "0025",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000058/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东国际",
-            "num": "0057",
+            "num": "0026",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东少儿",
-            "num": "0058",
+            "num": "0027",
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000059/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖南卫视高清",
+            "num": "0028",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000324/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京卫视高清",
+            "num": "0029",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江苏卫视高清",
+            "num": "0030",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视高清",
+            "num": "0031",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东方卫视高清",
+            "num": "0032",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视高清",
+            "num": "0033",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000307/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "深圳卫视高清",
+            "num": "0034",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000308/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天津卫视高清",
+            "num": "0035",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000327/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖北卫视高清",
+            "num": "0036",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000325/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "安徽卫视高清",
+            "num": "0037",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "贵州卫视高清",
+            "num": "0038",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河北卫视高清",
+            "num": "0039",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000330/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "辽宁卫视高清",
+            "num": "0040",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东南卫视高清",
+            "num": "0041",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000310/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江西卫视高清",
+            "num": "0042",
+            "urllist": "http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "重庆卫视高清",
+            "num": "0043",
+            "urllist": "http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "黑龙江卫视高清",
+            "num": "0044",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "四川卫视",
+            "num": "0045",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000033/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "吉林卫视",
+            "num": "0046",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河南卫视",
+            "num": "0047",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000037/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广西卫视",
+            "num": "0048",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "宁夏卫视",
+            "num": "0049",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000043/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山西卫视",
+            "num": "0050",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "陕西卫视",
+            "num": "0051",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "青海卫视",
+            "num": "0052",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "甘肃卫视",
+            "num": "0053",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "云南卫视",
+            "num": "0054",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000039/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "旅游卫视",
+            "num": "0055",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000030/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "新疆卫视",
+            "num": "0056",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "西藏卫视",
+            "num": "0057",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000045/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "内蒙古卫视",
+            "num": "0058",
+            "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -379,988 +379,756 @@
             "urllist": "http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000048/index.m3u8"
         },
         {
+            "itemid": "uid00",
+            "name": "封神榜",
+            "num": "0064",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三国演义",
+            "num": "0065",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "西游记",
+            "num": "0066",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "还珠格格",
+            "num": "0067",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "神雕侠侣",
+            "num": "0068",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "铁齿铜牙纪晓岚",
+            "num": "0069",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "康熙微服私访记",
+            "num": "0070",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "神探狄仁杰",
+            "num": "0071",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "少年包青天",
+            "num": "0072",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "新水浒",
+            "num": "0073",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "新三国",
+            "num": "0074",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "隋唐英雄传",
+            "num": "0075",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689650368-11551960368234364928-2847687592-10057-A-1525508640-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "鹿鼎记",
+            "num": "0076",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天龙八部",
+            "num": "0077",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "倚天屠龙记",
+            "num": "0078",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "仙剑奇侠传三",
+            "num": "0079",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "大宋提刑官",
+            "num": "0080",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "楚汉传奇",
+            "num": "0081",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "康熙王朝",
+            "num": "0082",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "雍正王朝",
+            "num": "0083",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "少年英雄方世玉",
+            "num": "0084",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "寻秦记",
+            "num": "0085",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天下第一",
+            "num": "0086",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "齐天大圣",
+            "num": "0087",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "春光灿烂猪八戒",
+            "num": "0088",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "龙门镖局",
+            "num": "0089",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "芈月传",
+            "num": "0090",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "宫锁心玉",
+            "num": "0091",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "医馆笑传",
+            "num": "0092",
+            "urllist": "http://al.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "亮剑",
+            "num": "0093",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "雪豹",
+            "num": "0094",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "伪装者",
+            "num": "0095",
+            "urllist": "http://al.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "我是特种兵",
+            "num": "0096",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民兵葛二蛋",
+            "num": "0097",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2475862720-10633749411785605120-3049003120-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "永不磨灭的番号",
+            "num": "0098",
+            "urllist": "http://al.hls.huya.com/huyalive/29359996-2689606170-11551770539269816320-2847687518-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "春江英雄之秀才遇到兵",
+            "num": "0099",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221420-11537233148714680320-3048991678-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "人民的名义",
+            "num": "0100",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "武林外传",
+            "num": "0101",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "大染坊",
+            "num": "0102",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220910-11537230958281359360-2847687608-10057-A-1524018691-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "勇敢的心",
+            "num": "0103",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "好先生",
+            "num": "0104",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "父母爱情",
+            "num": "0105",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "咱们结婚吧",
+            "num": "0106",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "爱情公寓",
+            "num": "0107",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "家有儿女",
+            "num": "0108",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "屌丝男士",
+            "num": "0109",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "老友记",
+            "num": "0110",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "生活大爆炸",
+            "num": "0111",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "陈翔六点半",
+            "num": "0112",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "春晚相声小品",
+            "num": "0113",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "岳云鹏，贾玲等相声小品",
+            "num": "0114",
+            "urllist": "http://aldirect.hls.huya.com:80/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "韩国综艺 Running man",
+            "num": "0115",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8"
+        },
+        {
             "itemid": "uid01",
             "name": "成龙",
-            "num": "0064",
+            "num": "0116",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "吴京",
-            "num": "0065",
+            "num": "0117",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "徐峥",
-            "num": "0066",
+            "num": "0118",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "沈腾",
-            "num": "0067",
+            "num": "0119",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "周星驰",
-            "num": "0068",
+            "num": "0120",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "周润发",
-            "num": "0069",
+            "num": "0121",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "李连杰",
-            "num": "0070",
+            "num": "0122",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "洪金宝",
-            "num": "0071",
+            "num": "0123",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "刘德华",
-            "num": "0072",
+            "num": "0124",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "林正英",
-            "num": "0073",
+            "num": "0125",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "甄子丹",
-            "num": "0074",
+            "num": "0126",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "吴亦凡",
-            "num": "0075",
+            "num": "0127",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689638862-11551910950340657152-2847687568-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "金·凯瑞",
-            "num": "0076",
+            "num": "0128",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689643094-11551929126642253824-2847687582-10057-A-1525505974-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "徐克导演",
-            "num": "0077",
+            "num": "0129",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "杰森斯坦森",
-            "num": "0078",
+            "num": "0130",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "搞笑",
-            "num": "0079",
+            "num": "0131",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "鬼片",
-            "num": "0080",
+            "num": "0132",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "开心鬼",
-            "num": "0081",
+            "num": "0133",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "古惑仔",
-            "num": "0082",
+            "num": "0134",
             "urllist": "http://al.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "黑帮斗争",
-            "num": "0083",
+            "num": "0135",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "赌片合集",
-            "num": "0084",
+            "num": "0136",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "粤语专场",
-            "num": "0085",
+            "num": "0137",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "功夫大师",
-            "num": "0086",
+            "num": "0138",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "女神港片",
-            "num": "0087",
+            "num": "0139",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "女神系列",
-            "num": "0088",
+            "num": "0140",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "五福星系列",
-            "num": "0089",
+            "num": "0141",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "卧底警匪片",
-            "num": "0090",
+            "num": "0142",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "港产恐怖搞笑",
-            "num": "0091",
+            "num": "0143",
             "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "舌尖上的中国",
-            "num": "0092",
+            "num": "0144",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "你想看的全都有",
-            "num": "0093",
+            "num": "0145",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414910-10971128498864783360-3049003166-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "我不做大佬好多年",
-            "num": "0094",
+            "num": "0146",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "盗墓",
-            "num": "0095",
+            "num": "0147",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "好莱坞",
-            "num": "0096",
+            "num": "0148",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "战争片",
-            "num": "0097",
+            "num": "0149",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "红色经典",
-            "num": "0098",
+            "num": "0150",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "经典大片",
-            "num": "0099",
+            "num": "0151",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "最佳外语片",
-            "num": "0100",
+            "num": "0152",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220986-11537231284698873856-2847687616-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "极限反杀",
-            "num": "0101",
+            "num": "0153",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2484192728-10669526523721023488-3048991650-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "科幻动作",
-            "num": "0102",
+            "num": "0154",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "科幻灾难",
-            "num": "0103",
+            "num": "0155",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "惊悚大片",
-            "num": "0104",
+            "num": "0156",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "异形怪物",
-            "num": "0105",
+            "num": "0157",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "生化危机",
-            "num": "0106",
+            "num": "0158",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "丧尸电影",
-            "num": "0107",
+            "num": "0159",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "电锯惊魂",
-            "num": "0108",
+            "num": "0160",
             "urllist": "http://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "死神来了",
-            "num": "0109",
+            "num": "0161",
             "urllist": "http://al.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "监禁·重口·猎奇·小众",
-            "num": "0110",
+            "num": "0162",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "泰国鬼片",
-            "num": "0111",
+            "num": "0163",
             "urllist": "http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "哥斯拉",
-            "num": "0112",
+            "num": "0164",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "指环王",
-            "num": "0113",
+            "num": "0165",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "哈利波特",
-            "num": "0114",
+            "num": "0166",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "变形金刚",
-            "num": "0115",
+            "num": "0167",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "加勒比海盗",
-            "num": "0116",
+            "num": "0168",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "速度与激情",
-            "num": "0117",
+            "num": "0169",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "零零七系列",
-            "num": "0118",
+            "num": "0170",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "漫威钢铁侠",
-            "num": "0119",
+            "num": "0171",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "漫威银河护卫队",
-            "num": "0120",
+            "num": "0172",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "漫威复仇者联盟",
-            "num": "0121",
+            "num": "0173",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "E连+太平洋战争",
-            "num": "0122",
+            "num": "0174",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "DC出品超级英雄",
-            "num": "0123",
+            "num": "0175",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689605744-11551768709613748224-2847699112-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid02",
-            "name": "雪豹",
-            "num": "0124",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "潜伏",
-            "num": "0125",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689670234-11552045692054667264-3048959590-10057-A-1525515454-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "战雷",
-            "num": "0126",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "奋斗",
-            "num": "0127",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2583262930-11095029801319137280-3048959664-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "越狱",
-            "num": "0128",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "毛骗",
-            "num": "0129",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "亮剑",
-            "num": "0130",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "济公",
-            "num": "0131",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "甄嬛传",
-            "num": "0132",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "伪装者",
-            "num": "0133",
-            "urllist": "http://al.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "大染坊",
-            "num": "0134",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220910-11537230958281359360-2847687608-10057-A-1524018691-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "寻秦记",
-            "num": "0135",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "老友记",
-            "num": "0136",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "琅琊榜",
-            "num": "0137",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2604793760-11187504012024872960-2847699160-10057-A-1523523587-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "蓝球火",
-            "num": "0138",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "宝莲灯",
-            "num": "0139",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "西游记",
-            "num": "0140",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "封神榜",
-            "num": "0141",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "新三国",
-            "num": "0142",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "新水浒",
-            "num": "0143",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "鹿鼎记",
-            "num": "0144",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "特警力量",
-            "num": "0145",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "勇敢的心",
-            "num": "0146",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "小兵张嘎",
-            "num": "0147",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2497712118-10727591861632892928-3048959604-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "同福客栈",
-            "num": "0148",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2579730270-11079857142151249920-3048959668-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "继承者们",
-            "num": "0149",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "齐天大圣",
-            "num": "0150",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "医馆笑传",
-            "num": "0151",
-            "urllist": "http://al.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "城市猎人",
-            "num": "0152",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689642072-11551924737185677312-2847687578-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "血色浪漫",
-            "num": "0153",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "终极三国",
-            "num": "0154",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2480428944-10653361194531815424-2789274554-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "喜欢密探",
-            "num": "0155",
-            "urllist": "http://al.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-2789274532-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "前任系列",
-            "num": "0156",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "热血高校",
-            "num": "0157",
-            "urllist": "http://al.hls.huya.com/huyalive/29169025-2686219818-11537226268177072128-2789253878-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "谍影重重",
-            "num": "0158",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "青春系列",
-            "num": "0159",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "反贪风暴",
-            "num": "0160",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "爱情公寓",
-            "num": "0161",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "屌丝男士",
-            "num": "0162",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "魔幻手机",
-            "num": "0163",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "家有儿女",
-            "num": "0164",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "龙门镖局",
-            "num": "0165",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "刁蛮公主",
-            "num": "0166",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "还珠格格",
-            "num": "0167",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "宫锁心玉",
-            "num": "0168",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "父母爱情",
-            "num": "0169",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "金粉世家",
-            "num": "0170",
-            "urllist": "http://al.hls.huya.com/huyalive/29359996-2689606170-11551770539269816320-2847687518-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "重案六组",
-            "num": "0171",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "火蓝刀锋",
-            "num": "0172",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2672445369-11478065460201652224-2777037926-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "士兵突击",
-            "num": "0173",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "三国演义",
-            "num": "0174",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "楚汉传奇",
-            "num": "0175",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "康熙王朝",
-            "num": "0176",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "雍正王朝",
-            "num": "0177",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "神雕侠侣",
-            "num": "0178",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "笑傲江湖",
-            "num": "0179",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "天下第一",
-            "num": "0180",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "天龙八部",
-            "num": "0181",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "我是特种兵",
-            "num": "0182",
-            "urllist": "http://al.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "民兵葛二蛋",
-            "num": "0183",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2675956786-11493146881379270656-3049003120-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "人民的名义",
-            "num": "0184",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "第八号当铺",
-            "num": "0185",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689661046-11552006229895151616-2847699222-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "生活大爆炸",
-            "num": "0186",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "恶作剧之吻",
-            "num": "0187",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "咱们结婚吧",
-            "num": "0188",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "神探狄仁杰",
-            "num": "0189",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "少年包青天",
-            "num": "0190",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "大宋提刑官",
-            "num": "0191",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "隋唐英雄传",
-            "num": "0192",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689650368-11551960368234364928-2847687592-10057-A-1525508640-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "倚天屠龙记",
-            "num": "0193",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "陈翔六点半",
-            "num": "0194",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "赵本山小品",
-            "num": "0195",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "岳云鹏相声",
-            "num": "0196",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "火线三兄弟",
-            "num": "0197",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "镖行天下系列",
-            "num": "0198",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "新白娘子传奇",
-            "num": "0199",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "倚天剑屠龙刀",
-            "num": "0200",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "大秦帝国之裂变",
-            "num": "0201",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689449418-11551097294556233728-2847699152-10057-A-1525421799-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "大秦帝国之崛起",
-            "num": "0202",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689449418-11551097294556233728-2847699152-10057-A-1525421799-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "铁齿铜牙纪晓岚",
-            "num": "0203",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "康熙微服私访记",
-            "num": "0204",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "春江英雄之秀才遇到兵",
-            "num": "0205",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686221420-11537233148714680320-3048991678-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "韩国综艺 Running man",
-            "num": "0206",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
             "name": "奥特曼",
-            "num": "0207",
+            "num": "0176",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1.m3u8"
         },
         {
-            "itemid": "uid03",
-            "name": "迪士尼",
-            "num": "0208",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "游戏王",
-            "num": "0209",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689606572-11551772265846669312-2847687520-10057-A-0-1.m3u8"
+            "num": "0177",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/1448738217-1448738217-6222283262480351232-2847699222-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "七龙珠改",
-            "num": "0210",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-1524129742-1.m3u8"
+            "num": "0178",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "猫和老鼠",
-            "num": "0211",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1.m3u8"
+            "num": "0179",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "海绵宝宝",
-            "num": "0212",
+            "num": "0180",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "网球王子",
-            "num": "0213",
+            "num": "0181",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "四驱兄弟",
-            "num": "0214",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-1526356723-1.m3u8"
+            "num": "0182",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
-            "name": "铠甲勇士",
-            "num": "0215",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "蜡笔小新",
-            "num": "0216",
+            "num": "0183",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "哆啦A梦",
-            "num": "0217",
+            "num": "0184",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1.m3u8"
         },
         {
-            "itemid": "uid03",
-            "name": "小绿和小蓝",
-            "num": "0218",
-            "urllist": "http://al.hls.huya.com/huyalive/1421650401-1421650401-6105941978640285696-4626855864-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "黑子的篮球",
-            "num": "0219",
+            "num": "0185",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid02",
             "name": "名侦探柯南",
-            "num": "0220",
+            "num": "0186",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
-            "name": "宠物小精灵",
-            "num": "0221",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689280818-11550373163070128128-2777037662-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
-            "name": "CG动画电影",
-            "num": "0222",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
-            "name": "网络次元美食",
-            "num": "0223",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2742644524-11779568535133487104-3048991682-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid03",
-            "name": "复仇者联盟动画",
-            "num": "0224",
-            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689652032-11551967515059945472-2847687604-10057-A-1525509264-1.m3u8"
         }
     ],
     "type": [
         {
             "id": "uid00",
-            "name": "央视卫视"
+            "name": "电视"
         },
         {
             "id": "uid01",
-            "name": "电影剧场"
+            "name": "电影"
         },
         {
             "id": "uid02",
-            "name": "电视剧场"
-        },
-      {
-            "id": "uid03",
-            "name": "动画剧场"
+            "name": "动漫"
         }
     ]
 }
